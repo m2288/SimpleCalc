@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleCalc</string>
+    <string name="awesome_simple_calculator_nv_1_0">Awesome Simple Calculator \nv 1.0</string>
+    <string name="_zero">0</string>
+    <string name="tv_result_simple">65 x 50</string>
+    <string name="tv_result_simple_ans">= 3250</string>
+</resources>
